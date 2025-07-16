@@ -51,6 +51,6 @@ python face_recognition_script.py
 
 # output image 
 
-![Recognition Result](Recognition Result.png)
+![result](result.png)
 
 
